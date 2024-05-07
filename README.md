@@ -1,5 +1,5 @@
 # EX 08-Implementation-of-K-Means-Clustering-for-Customer-Segmentation
-## DATE:
+## DATE: 20-03-2024
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
 
